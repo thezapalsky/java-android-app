@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_f8e8338b27c83f3948c66eecdfad209bd431443e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_4560bf5669cdac19122ea2b967e93fa87d08814f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b388c4a38e757b2bb4b80c9b47e4ece77ef2436b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7b933730c968bd6d524d15047872352e3c2d5f02">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ca18ed514da7a31c9f916699c17f0db546854248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_9aaadea171b6de081d0b82ce01efc717cc17e266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_a5b537e802dba563362fbf14e5029c92393c55f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_bca601674a6001d9958b82023350709f2c9903bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_b528c6ebac25f5fb003e2228a9a5d9e7b69e4a6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_2b424e469bbb6c2de60d8806b982b3f2d70050b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a897ddcd0776a499481b04bc5a27580441f75e32">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1ecbb7b4da9dc8f4f04e99f5c205fadb92bffe1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_b12a5f6b7f42a803db689024afc95585994ee83d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_785c4b3685acd94d595bb23d923e273c935c8f05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_fb5762bb7b66df035e12fe92ac10c60a79f978ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_50e7fb214af5ed929915c7bcacba17945f6fe7dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_dd087e4603c5cbed91ca832fd070f0efbd31bebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_81b46cbe7897522edab51a95af20b42bf03706fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\projektkoncowyzapalskimikolaj\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_7a2f0b88a5e6595156ca93d1e16ac94c891ce233\classes.dex" />
+    </item>
+
+</items>
