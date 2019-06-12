@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.mikosz.projektkoncowyzapalskimikolaj.MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimaryDark"
+    android:id="@+id/wybor_efektu">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/balans"
+        android:text="balans"
+        android:layout_weight="1"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/swiatlo"
+        android:text="naswietlenie"
+        android:layout_weight="1"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/kolorystyka"
+        android:text="kolorystyka"
+        android:layout_weight="1"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/size"
+        android:text="size"
+        android:layout_weight="1"
+
+        />
+</LinearLayout>
+    <FrameLayout
+        android:layout_weight="1"
+        android:id="@+id/frameLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/takePhotoBt"
+            android:text="photo"
+            android:layout_weight="1"
+
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/reset"
+            android:text="res"
+            android:layout_weight="1"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/save"
+            android:text="save"
+            android:visibility="invisible"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+</LinearLayout>
