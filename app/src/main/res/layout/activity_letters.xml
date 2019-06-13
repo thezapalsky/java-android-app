@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00ff00"
+    android:id="@+id/glowny_r"
+    tools:context="com.example.mikosz.projektkoncowyzapalskimikolaj.LettersActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#ffee00"
+        android:id="@+id/podglad"
+        android:layout_alignParentTop="true">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PODGLAD"/>
+    </RelativeLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wpisany_tekst"
+        android:orientation="vertical"
+        android:layout_below="@id/podglad"
+        android:background="@color/colorAccent"
+        />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#c7d1e0"
+        android:id="@+id/przyciski"
+        android:layout_below="@id/wpisany_tekst"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wybierz kolor: "/>
+
+        <ImageView
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:src="@drawable/colors"
+            android:id="@+id/koleczko"
+            />
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/scroll_view"
+        android:background="#00ff00"
+        android:layout_below="@id/przyciski"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/ll_w_sv">
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

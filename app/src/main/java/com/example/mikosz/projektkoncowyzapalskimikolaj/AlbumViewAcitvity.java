@@ -1,6 +1,7 @@
 package com.example.mikosz.projektkoncowyzapalskimikolaj;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
@@ -11,6 +12,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Display;
+import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.GridView;
@@ -25,6 +27,7 @@ public class AlbumViewAcitvity extends Activity {
 
     private LinearLayout linear1;
     private LinearLayout LL;
+    private ImageView adam;
 
 
     @Override
@@ -32,6 +35,8 @@ public class AlbumViewAcitvity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_album_view_acitvity);
         ///
+        adam = (ImageView) findViewById(R.id.adam);
+
         Bundle bundle = getIntent().getExtras();
         String wartosc = bundle.getString("key").toString();
 
@@ -45,6 +50,8 @@ public class AlbumViewAcitvity extends Activity {
         display.getSize(size);
         int width = size.x;
         int height = size.y;
+        Prefs.setSzerokosc(width);
+        Prefs.setWysokosc(height);
         int odd = 0;
 
         ViewGroup.LayoutParams lparams;
@@ -119,6 +126,15 @@ public class AlbumViewAcitvity extends Activity {
             }
 
         }
+
+        adam.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //odpala adama na full skrinie
+                Intent intent = new Intent(AlbumViewAcitvity.this,FotoActivity.class);
+                startActivity(intent);
+            }
+        });
 
     }
 

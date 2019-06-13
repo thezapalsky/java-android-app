@@ -1,11 +1,14 @@
 package com.example.mikosz.projektkoncowyzapalskimikolaj;
 
 import android.content.Intent;
+import android.graphics.Point;
 import android.os.Environment;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Display;
 import android.view.View;
 import android.widget.Button;
+import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 import java.io.File;
@@ -18,11 +21,19 @@ public class MainActivity extends AppCompatActivity {
     private Button bt3;
     private Button bt4;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        Display display = getWindowManager().getDefaultDisplay();
+        Point size = new Point();
+        display.getSize(size);
+        int width = size.x;
+        int height = size.y;
+        Prefs.setSzerokosc(width);
+        Prefs.setWysokosc(height);
+
         //
         getSupportActionBar().hide();
         //
@@ -68,6 +79,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this,CameraActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        bt3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this,ChooseCollageActivity.class);
                 startActivity(intent);
             }
         });

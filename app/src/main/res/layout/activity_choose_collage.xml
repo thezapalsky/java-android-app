@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.mikosz.projektkoncowyzapalskimikolaj.ChooseCollageActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/jeden"
+        android:layout_weight="1"
+        android:id="@+id/kolaz_jeden"
+        ></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dwa"
+        android:layout_weight="1"
+        android:id="@+id/kolaz_dwa"
+        ></LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/trzy"
+        android:layout_weight="1"
+        android:id="@+id/kolaz_trzy"
+        ></LinearLayout>
+
+</LinearLayout>

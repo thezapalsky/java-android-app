@@ -11,5 +11,10 @@
     android:background="@color/colorPrimary"
     android:orientation="vertical"
     android:id="@+id/tu_bd_zdjecia">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/adam"
+        android:id="@+id/adam"/>
 </LinearLayout>
 </ScrollView>
