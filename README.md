@@ -14,7 +14,6 @@
 <img src="ss/Screenshot_2019-06-12-19-47-33.png" alt="drawing" height="200"/>
 <img src="ss/Screenshot_2019-06-12-19-48-06.png" alt="drawing" height="200"/>
 <img src="ss/Screenshot_2019-06-12-19-48-41.png" alt="drawing" width="200"/>
-<img src="ss/Screenshot_2019-06-12-19-50-03.png" alt="drawing" width="200"/>
 <img src="ss/Screenshot_2019-06-12-19-50-16.png" alt="drawing" width="200"/>
 <img src="ss/Screenshot_2019-06-12-19-50-23.png" alt="drawing" width="200"/>
 <img src="ss/Screenshot_2019-06-12-19-50-34.png" alt="drawing" width="200"/>
