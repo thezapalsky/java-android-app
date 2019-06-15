@@ -1,4 +1,5 @@
 # java-android-app
+projekt robiony przez jedna osobe
 ## przydatne skróty
 [pliki z layoutem tutaj](https://github.com/thezapalsky/java-android-app/tree/master/app/src/main/res/layout) 
 
