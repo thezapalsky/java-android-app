@@ -1,13 +1,11 @@
 # java-android-app
-projekt robiony przez jedna osobe
-## przydatne skróty
-[pliki z layoutem tutaj](https://github.com/thezapalsky/java-android-app/tree/master/app/src/main/res/layout) 
+Projekt robiony przez jedna osobe
+## Przydatne skróty
+* pliki z layoutem [tutaj](https://github.com/thezapalsky/java-android-app/tree/master/app/src/main/res/layout)
+* pliki z klasami [tutaj](https://github.com/thezapalsky/java-android-app/tree/master/app/src/main/java/com/example/mikosz/projektkoncowyzapalskimikolaj)
+* plik .apk do instalacji na androidzie [tutaj](https://github.com/thezapalsky/java-android-app/blob/master/app-debug.apk)
 
-[pliki z klasami tutaj](https://github.com/thezapalsky/java-android-app/tree/master/app/src/main/java/com/example/mikosz/projektkoncowyzapalskimikolaj)
-
-[plik .apk do instalacji na androidzie tutaj](https://github.com/thezapalsky/java-android-app/blob/master/app-debug.apk)
-
-## kilka screenów
+## Kilka screenów z dzialania aplikacji
 <img src="ss/Screenshot_2019-06-12-19-46-51.png" alt="drawing" width="200"/>
 <img src="ss/Screenshot_2019-06-12-19-46-59.png" alt="drawing" width="200"/>
 <img src="ss/Screenshot_2019-06-12-19-47-07.png" alt="drawing" width="200"/>
